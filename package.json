@@ -16,7 +16,7 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "angular": "^1.6.7",
+    "angular": "^1.8.3",
     "angular-mocks": "^1.6.7",
     "angular-ui-router": "^1.0.3",
     "jasmine-core": "^2.8.0",
